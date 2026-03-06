@@ -35,11 +35,7 @@ enp8s0 /
 | ---- | ------------- | -------------------------------------------------- |
 | 0    | balance-rr    | Round-robin load balancing                         |
 | 1    | active-backup | One interface active, backup takes over on failure |
-| 2    | balance-xor   | XOR based load balancing                           |
-| 3    | broadcast     | Sends packets on all interfaces                    |
-| 4    | 802.3ad       | LACP dynamic link aggregation                      |
-| 5    | balance-tlb   | Transmit load balancing                            |
-| 6    | balance-alb   | Adaptive load balancing                            |
+
 
 ---
 
